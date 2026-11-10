@@ -1,0 +1,445 @@
+[
+  {
+    "cell": "Sheet1!B3",
+    "summary": "Danh sách nhân sự — chuẩn hóa thành danh mục chức danh và hồ sơ",
+    "action": "Mở rộng công việc hiện có",
+    "taskIds": [
+      "04-01"
+    ],
+    "notes": "Không nhập danh sách hoặc tên nhân sự."
+  },
+  {
+    "cell": "Sheet1!B4",
+    "summary": "Cơ chế lương thưởng",
+    "action": "Mở rộng công việc hiện có",
+    "taskIds": [
+      "04-04"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B5",
+    "summary": "Xây dựng thang bảng lương",
+    "action": "Thêm công việc mới",
+    "taskIds": [
+      "04-11"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B6",
+    "summary": "Khung hợp đồng lao động",
+    "action": "Mở rộng công việc hiện có",
+    "taskIds": [
+      "03-07"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B7",
+    "summary": "Hợp đồng bảo mật",
+    "action": "Thêm công việc mới",
+    "taskIds": [
+      "03-11"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B8",
+    "summary": "Tiêu chí KPI theo cấp và bộ phận",
+    "action": "Mở rộng công việc hiện có",
+    "taskIds": [
+      "02-03"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B11",
+    "summary": "Điều lệ công ty",
+    "action": "Mở rộng công việc hiện có",
+    "taskIds": [
+      "03-01"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B12",
+    "summary": "Nguyên tắc bảo mật — thuật ngữ DNA chưa rõ",
+    "action": "Cần làm rõ",
+    "taskIds": [
+      "03-12"
+    ],
+    "notes": "Không tự sửa DNA thành NDA."
+  },
+  {
+    "cell": "Sheet1!B13",
+    "summary": "Giấy phép/đăng ký kinh doanh",
+    "action": "Mở rộng công việc hiện có",
+    "taskIds": [
+      "03-01"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B14",
+    "summary": "Biên bản họp cổ đông và Hội đồng quản trị",
+    "action": "Mở rộng và thêm công việc con",
+    "taskIds": [
+      "01-08",
+      "03-13"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B15",
+    "summary": "Hồ sơ bổ nhiệm các chức danh",
+    "action": "Thêm công việc mới",
+    "taskIds": [
+      "03-14"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B16",
+    "summary": "Đề xuất bổ nhiệm Phó Tổng Giám đốc",
+    "action": "Thêm công việc mới",
+    "taskIds": [
+      "04-12"
+    ],
+    "notes": "Loại tên cá nhân; không coi nội dung nguồn là quyết định bổ nhiệm."
+  },
+  {
+    "cell": "Sheet1!B17",
+    "summary": "Ủy quyền ký hồ sơ chứng từ theo chức danh",
+    "action": "Mở rộng công việc hiện có",
+    "taskIds": [
+      "02-07"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B18",
+    "summary": "Đề xuất hạn mức tài chính theo chức danh và điều kiện ngân sách",
+    "action": "Mở rộng công việc hiện có",
+    "taskIds": [
+      "05-07"
+    ],
+    "notes": "Không nhập các mức tiền như quy định chính thức; cần xác minh căn cứ và trình duyệt."
+  },
+  {
+    "cell": "Sheet1!B19",
+    "summary": "Mẫu phân công công việc phụ trách",
+    "action": "Thêm công việc mới",
+    "taskIds": [
+      "02-11"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B22",
+    "summary": "Phạm vi HĐQT hỗ trợ điều hành trong giai đoạn đầu",
+    "action": "Thêm công việc mới",
+    "taskIds": [
+      "01-09"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B23",
+    "summary": "Phạm vi điều hành chung theo chức danh Phó Tổng Giám đốc",
+    "action": "Mở rộng công việc hiện có",
+    "taskIds": [
+      "02-02"
+    ],
+    "notes": "Không coi mô tả trong Excel là ủy quyền có hiệu lực."
+  },
+  {
+    "cell": "Sheet1!B26",
+    "summary": "Kế hoạch kiểm kê tài sản hiện hữu",
+    "action": "Thêm công việc mới",
+    "taskIds": [
+      "06-11"
+    ],
+    "notes": "Loại tên chủ tài sản; quyền sở hữu cần xác minh."
+  },
+  {
+    "cell": "Sheet1!B27",
+    "summary": "Phối hợp kế toán và pháp chế kiểm kê",
+    "action": "Mở rộng công việc hiện có",
+    "taskIds": [
+      "07-04"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B28",
+    "summary": "Danh mục và đánh giá giá trị tài sản",
+    "action": "Thêm công việc mới",
+    "taskIds": [
+      "06-12"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B29",
+    "summary": "Chuyển đơn vị thẩm định giá",
+    "action": "Thêm công việc mới",
+    "taskIds": [
+      "05-11"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B30",
+    "summary": "Phương án chuyển tài sản và ghi nhận kế toán phù hợp",
+    "action": "Mở rộng và thêm công việc con",
+    "taskIds": [
+      "03-15",
+      "06-04"
+    ],
+    "notes": "Không tự ghi nhận tài sản cá nhân thành vốn chủ sở hữu."
+  },
+  {
+    "cell": "Sheet1!B33",
+    "summary": "Đất cá nhân dự kiến góp vốn",
+    "action": "Mở rộng công việc hiện có",
+    "taskIds": [
+      "03-02"
+    ],
+    "notes": "Chưa xác nhận đủ điều kiện góp vốn."
+  },
+  {
+    "cell": "Sheet1!B34",
+    "summary": "Đất thuê và hợp đồng thuê",
+    "action": "Mở rộng công việc hiện có",
+    "taskIds": [
+      "03-02"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B35",
+    "summary": "Thuê hồ và hợp đồng thuê hồ",
+    "action": "Thêm công việc mới",
+    "taskIds": [
+      "03-16"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B38",
+    "summary": "Nội quy tổng thể doanh nghiệp",
+    "action": "Mở rộng công việc hiện có",
+    "taskIds": [
+      "04-06"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B39",
+    "summary": "Nội quy khối văn phòng",
+    "action": "Thêm công việc mới",
+    "taskIds": [
+      "04-13"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B40",
+    "summary": "Nội quy khối sản xuất",
+    "action": "Thêm công việc mới",
+    "taskIds": [
+      "02-12"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B41",
+    "summary": "Quy trình từng bộ phận và liên phòng ban",
+    "action": "Mở rộng công việc hiện có",
+    "taskIds": [
+      "02-10"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B42",
+    "summary": "Quy chế truyền thông",
+    "action": "Thêm công việc mới",
+    "taskIds": [
+      "17-12"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B43",
+    "summary": "Quy chế tài chính",
+    "action": "Thêm công việc mới",
+    "taskIds": [
+      "05-12"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B44",
+    "summary": "Nội quy lao động",
+    "action": "Mở rộng công việc hiện có",
+    "taskIds": [
+      "04-06"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B45",
+    "summary": "Quy định chấm công",
+    "action": "Mở rộng công việc hiện có",
+    "taskIds": [
+      "04-06"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B46",
+    "summary": "Quy định tính lương",
+    "action": "Thêm công việc mới",
+    "taskIds": [
+      "04-14"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B47",
+    "summary": "Quy định đánh giá KPI",
+    "action": "Mở rộng công việc hiện có",
+    "taskIds": [
+      "02-03"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B48",
+    "summary": "Quy định xét thưởng",
+    "action": "Thêm công việc mới",
+    "taskIds": [
+      "04-15"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B51",
+    "summary": "Bàn ghế và thiết bị văn phòng",
+    "action": "Mở rộng công việc hiện có",
+    "taskIds": [
+      "13-01"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B52",
+    "summary": "Server, domain/tên miền và email",
+    "action": "Mở rộng và thêm công việc con",
+    "taskIds": [
+      "18-12",
+      "18-08"
+    ],
+    "notes": "Domain và tên miền là cùng một hạng mục."
+  },
+  {
+    "cell": "Sheet1!B53",
+    "summary": "Đăng ký Internet",
+    "action": "Thêm công việc mới",
+    "taskIds": [
+      "18-13"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B54",
+    "summary": "Phần mềm kế toán và hóa đơn điện tử",
+    "action": "Mở rộng công việc hiện có",
+    "taskIds": [
+      "06-01",
+      "06-02"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B57",
+    "summary": "Nghiên cứu nghiệm thức chăn nuôi",
+    "action": "Mở rộng công việc hiện có",
+    "taskIds": [
+      "10-04"
+    ],
+    "notes": "Chuẩn hóa lỗi chữ nghiệp thức theo ngữ cảnh nghiên cứu; không coi thử nghiệm là SOP sản xuất đã duyệt."
+  },
+  {
+    "cell": "Sheet1!B58",
+    "summary": "Nghiên cứu nghiệm thức cây trồng",
+    "action": "Thêm công việc mới",
+    "taskIds": [
+      "10-11"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B61",
+    "summary": "Giá vốn",
+    "action": "Mở rộng công việc hiện có",
+    "taskIds": [
+      "06-06"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B62",
+    "summary": "Giá bán",
+    "action": "Mở rộng công việc hiện có",
+    "taskIds": [
+      "16-05"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B63",
+    "summary": "Chi phí CAPEX",
+    "action": "Mở rộng công việc hiện có",
+    "taskIds": [
+      "05-02"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B64",
+    "summary": "Chi phí OPEX",
+    "action": "Mở rộng công việc hiện có",
+    "taskIds": [
+      "05-02"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B65",
+    "summary": "Chi phí bán hàng",
+    "action": "Thêm công việc mới",
+    "taskIds": [
+      "16-13"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!B66",
+    "summary": "Lợi nhuận mong muốn",
+    "action": "Mở rộng công việc hiện có",
+    "taskIds": [
+      "05-05"
+    ],
+    "notes": ""
+  },
+  {
+    "cell": "Sheet1!A68",
+    "summary": "Mục 10 để trống",
+    "action": "Cần làm rõ",
+    "taskIds": [],
+    "notes": "Không tạo nhiệm vụ từ tiêu đề trống."
+  }
+]

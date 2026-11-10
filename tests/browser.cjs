@@ -1,0 +1,52 @@
+const assert=require('node:assert/strict');
+const fs=require('node:fs'),path=require('node:path');
+const {pathToFileURL}=require('node:url');
+const {chromium}=require(process.env.PLAYWRIGHT_PATH||'playwright');
+(async()=>{
+ const out=process.env.QA_OUTPUT||'/tmp/orgtask-qa';fs.mkdirSync(out,{recursive:true});
+ const browser=await chromium.launch({headless:true,executablePath:process.env.CHROME_PATH||'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'});
+ try{
+ const context=await browser.newContext({viewport:{width:1440,height:1000},acceptDownloads:true});
+ const page=await context.newPage(),errors=[];page.on('pageerror',e=>errors.push(e.message));
+ await context.addInitScript(()=>{if(!localStorage.getItem('test-seeded')){localStorage.setItem('ovn-company-tasks-v1',JSON.stringify({'01-01':true,'unknown-preserved':true}));localStorage.setItem('test-seeded','yes')}});
+ await page.goto(pathToFileURL(path.resolve('index.html')).href);
+ assert.equal(await page.locator('#taskTotal').innerText(),'217');
+ assert.equal(await page.locator('#deptTotal').innerText(),'18');
+ assert.equal(await page.locator('#doneTotal').innerText(),'1');
+ await page.locator('[data-toggle="01"]').click();
+ assert.equal(await page.locator('#task-01-01').isChecked(),true);
+ await page.locator('#task-01-02').check();
+ await page.reload();await page.locator('[data-toggle="01"]').click();
+ assert.equal(await page.locator('#task-01-02').isChecked(),true);
+ assert.equal(await page.evaluate(()=>JSON.parse(localStorage.getItem('ovn-company-tasks-v1'))['unknown-preserved']),true);
+ await page.locator('[data-detail="01-01"] summary').click();
+ await page.locator('#task-01-03').check();
+ assert.equal(await page.locator('[data-detail="01-01"]').getAttribute('open'),'');
+ await page.locator('#departmentSelect').selectOption('03');
+ await page.locator('#approvalSelect').selectOption({label:'Cần xác minh'});
+ assert.ok(await page.locator('.taskcard').count()>0);
+ for(const el of await page.locator('.taskcard .approval').all())assert.equal(await el.innerText(),'Cần xác minh');
+ await page.locator('#resetBtn').click();await page.locator('#search').fill('DNA');
+ assert.ok(await page.locator('.taskcard').count()>=1);
+ await page.locator('#search').fill('___no_result___');assert.equal(await page.locator('.taskcard').count(),0);
+ await page.locator('#resetBtn').click();await page.locator('#expandBtn').click();
+ assert.equal(await page.locator('.taskcard').count(),217);
+ assert.equal(await page.evaluate(()=>{const ids=[...document.querySelectorAll('[id]')].map(e=>e.id);return ids.length===new Set(ids).size}),true);
+ await page.evaluate(()=>scrollTo(0,0));await page.screenshot({path:path.join(out,'desktop.png'),fullPage:false});
+ for(const width of [375,768,1440]){
+  await page.setViewportSize({width,height:900});
+  assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),`overflow at ${width}`);
+  if(width===375){await page.evaluate(()=>scrollTo(0,0));await page.screenshot({path:path.join(out,'mobile.png'),fullPage:false});}
+ }
+ const downloadPromise=page.waitForEvent('download');await page.locator('#csvBtn').click();const download=await downloadPromise;await download.saveAs(path.join(out,'export.csv'));
+ const csv=fs.readFileSync(path.join(out,'export.csv'),'utf8');assert.equal(csv.charCodeAt(0),0xfeff);assert.equal(csv.split('\r\n').length,218);
+ await page.locator('#search').fill('___no_result___');
+ await page.evaluate(()=>preparePrint());await page.emulateMedia({media:'print'});
+ assert.equal(await page.locator('#printCatalogue .print-task').count(),217);
+ assert.equal(await page.locator('#printCatalogue').isVisible(),true);
+ assert.equal(await page.locator('#departmentGrid').isVisible(),false);
+ await page.pdf({path:path.join(out,'print-qa.pdf'),format:'A4',printBackground:true,preferCSSPageSize:true});
+ assert.deepEqual(errors,[]);
+ console.log(JSON.stringify({tasks:217,departments:18,viewports:[375,768,1440],checks:'checklist persistence, unknown key preservation, details retention, intersected filters, search, reset, CSV download/BOM, full print despite filter, no JS errors',output:out}));
+ }finally{await browser.close()}
+})().catch(e=>{console.error(e);process.exitCode=1});

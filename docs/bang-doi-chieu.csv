@@ -1,0 +1,50 @@
+﻿Ô nguồn,Nội dung nguồn đã khử định danh,Xử lý,Mã công việc,Ghi chú
+Sheet1!B3,Danh sách nhân sự — chuẩn hóa thành danh mục chức danh và hồ sơ,Mở rộng công việc hiện có,04-01,Không nhập danh sách hoặc tên nhân sự.
+Sheet1!B4,Cơ chế lương thưởng,Mở rộng công việc hiện có,04-04,
+Sheet1!B5,Xây dựng thang bảng lương,Thêm công việc mới,04-11,
+Sheet1!B6,Khung hợp đồng lao động,Mở rộng công việc hiện có,03-07,
+Sheet1!B7,Hợp đồng bảo mật,Thêm công việc mới,03-11,
+Sheet1!B8,Tiêu chí KPI theo cấp và bộ phận,Mở rộng công việc hiện có,02-03,
+Sheet1!B11,Điều lệ công ty,Mở rộng công việc hiện có,03-01,
+Sheet1!B12,Nguyên tắc bảo mật — thuật ngữ DNA chưa rõ,Cần làm rõ,03-12,Không tự sửa DNA thành NDA.
+Sheet1!B13,Giấy phép/đăng ký kinh doanh,Mở rộng công việc hiện có,03-01,
+Sheet1!B14,Biên bản họp cổ đông và Hội đồng quản trị,Mở rộng và thêm công việc con,"01-08, 03-13",
+Sheet1!B15,Hồ sơ bổ nhiệm các chức danh,Thêm công việc mới,03-14,
+Sheet1!B16,Đề xuất bổ nhiệm Phó Tổng Giám đốc,Thêm công việc mới,04-12,Loại tên cá nhân; không coi nội dung nguồn là quyết định bổ nhiệm.
+Sheet1!B17,Ủy quyền ký hồ sơ chứng từ theo chức danh,Mở rộng công việc hiện có,02-07,
+Sheet1!B18,Đề xuất hạn mức tài chính theo chức danh và điều kiện ngân sách,Mở rộng công việc hiện có,05-07,Không nhập các mức tiền như quy định chính thức; cần xác minh căn cứ và trình duyệt.
+Sheet1!B19,Mẫu phân công công việc phụ trách,Thêm công việc mới,02-11,
+Sheet1!B22,Phạm vi HĐQT hỗ trợ điều hành trong giai đoạn đầu,Thêm công việc mới,01-09,
+Sheet1!B23,Phạm vi điều hành chung theo chức danh Phó Tổng Giám đốc,Mở rộng công việc hiện có,02-02,Không coi mô tả trong Excel là ủy quyền có hiệu lực.
+Sheet1!B26,Kế hoạch kiểm kê tài sản hiện hữu,Thêm công việc mới,06-11,Loại tên chủ tài sản; quyền sở hữu cần xác minh.
+Sheet1!B27,Phối hợp kế toán và pháp chế kiểm kê,Mở rộng công việc hiện có,07-04,
+Sheet1!B28,Danh mục và đánh giá giá trị tài sản,Thêm công việc mới,06-12,
+Sheet1!B29,Chuyển đơn vị thẩm định giá,Thêm công việc mới,05-11,
+Sheet1!B30,Phương án chuyển tài sản và ghi nhận kế toán phù hợp,Mở rộng và thêm công việc con,"03-15, 06-04",Không tự ghi nhận tài sản cá nhân thành vốn chủ sở hữu.
+Sheet1!B33,Đất cá nhân dự kiến góp vốn,Mở rộng công việc hiện có,03-02,Chưa xác nhận đủ điều kiện góp vốn.
+Sheet1!B34,Đất thuê và hợp đồng thuê,Mở rộng công việc hiện có,03-02,
+Sheet1!B35,Thuê hồ và hợp đồng thuê hồ,Thêm công việc mới,03-16,
+Sheet1!B38,Nội quy tổng thể doanh nghiệp,Mở rộng công việc hiện có,04-06,
+Sheet1!B39,Nội quy khối văn phòng,Thêm công việc mới,04-13,
+Sheet1!B40,Nội quy khối sản xuất,Thêm công việc mới,02-12,
+Sheet1!B41,Quy trình từng bộ phận và liên phòng ban,Mở rộng công việc hiện có,02-10,
+Sheet1!B42,Quy chế truyền thông,Thêm công việc mới,17-12,
+Sheet1!B43,Quy chế tài chính,Thêm công việc mới,05-12,
+Sheet1!B44,Nội quy lao động,Mở rộng công việc hiện có,04-06,
+Sheet1!B45,Quy định chấm công,Mở rộng công việc hiện có,04-06,
+Sheet1!B46,Quy định tính lương,Thêm công việc mới,04-14,
+Sheet1!B47,Quy định đánh giá KPI,Mở rộng công việc hiện có,02-03,
+Sheet1!B48,Quy định xét thưởng,Thêm công việc mới,04-15,
+Sheet1!B51,Bàn ghế và thiết bị văn phòng,Mở rộng công việc hiện có,13-01,
+Sheet1!B52,"Server, domain/tên miền và email",Mở rộng và thêm công việc con,"18-12, 18-08",Domain và tên miền là cùng một hạng mục.
+Sheet1!B53,Đăng ký Internet,Thêm công việc mới,18-13,
+Sheet1!B54,Phần mềm kế toán và hóa đơn điện tử,Mở rộng công việc hiện có,"06-01, 06-02",
+Sheet1!B57,Nghiên cứu nghiệm thức chăn nuôi,Mở rộng công việc hiện có,10-04,Chuẩn hóa lỗi chữ nghiệp thức theo ngữ cảnh nghiên cứu; không coi thử nghiệm là SOP sản xuất đã duyệt.
+Sheet1!B58,Nghiên cứu nghiệm thức cây trồng,Thêm công việc mới,10-11,
+Sheet1!B61,Giá vốn,Mở rộng công việc hiện có,06-06,
+Sheet1!B62,Giá bán,Mở rộng công việc hiện có,16-05,
+Sheet1!B63,Chi phí CAPEX,Mở rộng công việc hiện có,05-02,
+Sheet1!B64,Chi phí OPEX,Mở rộng công việc hiện có,05-02,
+Sheet1!B65,Chi phí bán hàng,Thêm công việc mới,16-13,
+Sheet1!B66,Lợi nhuận mong muốn,Mở rộng công việc hiện có,05-05,
+Sheet1!A68,Mục 10 để trống,Cần làm rõ,,Không tạo nhiệm vụ từ tiêu đề trống.
