@@ -1,0 +1,157 @@
+[
+  {
+    "item": 1,
+    "summary": "Tính lương, thưởng, phụ cấp và thanh toán lương định kỳ",
+    "taskIds": [
+      "04-17",
+      "06-08"
+    ],
+    "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+    "notes": "Kế toán chủ trì thanh toán/kê khai; HCNS tính lương và chuẩn bị, đối soát dữ liệu."
+  },
+  {
+    "item": 2,
+    "summary": "Kê khai, đóng và quyết toán BHXH, BHYT, BHTN",
+    "taskIds": [
+      "04-05"
+    ],
+    "action": "Mở rộng công việc hiện có",
+    "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+  },
+  {
+    "item": 3,
+    "summary": "Kê khai và quyết toán thuế TNCN",
+    "taskIds": [
+      "04-18",
+      "06-07"
+    ],
+    "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+    "notes": "Kế toán chủ trì thanh toán/kê khai; HCNS tính lương và chuẩn bị, đối soát dữ liệu."
+  },
+  {
+    "item": 4,
+    "summary": "Phối hợp kê khai, quyết toán thuế TNDN với kế toán",
+    "taskIds": [
+      "04-18",
+      "06-07"
+    ],
+    "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+    "notes": "Kế toán chủ trì thanh toán/kê khai; HCNS tính lương và chuẩn bị, đối soát dữ liệu."
+  },
+  {
+    "item": 5,
+    "summary": "Thực thi chế độ, chính sách, phúc lợi người lao động",
+    "taskIds": [
+      "04-19"
+    ],
+    "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+    "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+  },
+  {
+    "item": 6,
+    "summary": "Thủ tục điều chuyển, bổ nhiệm, miễn nhiệm, nghỉ việc",
+    "taskIds": [
+      "04-20",
+      "04-12",
+      "03-14"
+    ],
+    "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+    "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+  },
+  {
+    "item": 7,
+    "summary": "Tranh chấp, khiếu nại và quan hệ lao động",
+    "taskIds": [
+      "04-21"
+    ],
+    "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+    "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+  },
+  {
+    "item": 8,
+    "summary": "Lộ trình nghề nghiệp và thăng tiến",
+    "taskIds": [
+      "04-22",
+      "04-10"
+    ],
+    "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+    "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+  },
+  {
+    "item": 9,
+    "summary": "Đánh giá năng lực, hiệu quả định kỳ",
+    "taskIds": [
+      "04-23",
+      "04-15",
+      "02-03"
+    ],
+    "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+    "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+  },
+  {
+    "item": 10,
+    "summary": "Khám sức khỏe định kỳ và an toàn, vệ sinh lao động",
+    "taskIds": [
+      "04-24"
+    ],
+    "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+    "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+  },
+  {
+    "item": 11,
+    "summary": "Báo cáo lao động với cơ quan nhà nước",
+    "taskIds": [
+      "04-25"
+    ],
+    "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+    "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+  },
+  {
+    "item": 12,
+    "summary": "Văn thư, lưu trữ, con dấu, hồ sơ pháp lý",
+    "taskIds": [
+      "04-08",
+      "03-17"
+    ],
+    "action": "Mở rộng công việc hiện có",
+    "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+  },
+  {
+    "item": 13,
+    "summary": "Mua sắm, cấp phát, thu hồi công cụ dụng cụ, trang thiết bị",
+    "taskIds": [
+      "04-08",
+      "13-04"
+    ],
+    "action": "Mở rộng công việc hiện có",
+    "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+  },
+  {
+    "item": 14,
+    "summary": "Ngân sách và kiểm soát chi phí HCNS",
+    "taskIds": [
+      "04-26",
+      "05-02"
+    ],
+    "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+    "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+  },
+  {
+    "item": 15,
+    "summary": "Giám sát tuân thủ pháp luật lao động",
+    "taskIds": [
+      "04-27"
+    ],
+    "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+    "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+  },
+  {
+    "item": 16,
+    "summary": "Báo cáo, thống kê và phân tích dữ liệu nhân sự",
+    "taskIds": [
+      "04-28"
+    ],
+    "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+    "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+  }
+]

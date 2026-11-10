@@ -7,9 +7,9 @@
 ## Số liệu
 
 - Trước: 18 bộ phận, 187 công việc.
-- Sau: 18 bộ phận, 217 công việc.
-- Bổ sung thực sự: 30 công việc; 23 từ Excel, còn lại theo đặc tả nâng cấp.
-- Mở rộng: 28 công việc cũ; giữ nguyên ID và tên nhiệm vụ cũ.
+- Sau: 18 bộ phận, 240 công việc.
+- Bổ sung thực sự: 53 công việc; 23 từ Excel, 12 từ ảnh HCNS, 6 từ ảnh Pháp chế, 3 từ ảnh Kế toán, còn lại theo đặc tả/yêu cầu nâng cấp.
+- Mở rộng: 32 công việc cũ; giữ nguyên ID; tên 06-04 cập nhật theo ảnh chỉnh sửa, 06-05/06-08 cập nhật theo yêu cầu tách việc, 04-05/04-08 mở rộng theo ảnh HCNS.
 - 0 dòng Excel được bỏ qua vì đã đầy đủ: các dòng có tương đương đều cần thêm đầu ra, phạm vi hoặc trạng thái xác minh.
 - 28 dòng Excel có liên hệ công việc cũ được mở rộng; không tạo thêm bản sao cho cùng đầu ra.
 - 2 hạng mục cần làm rõ: B12 (DNA), A68 (mục 10 trống).
@@ -62,7 +62,7 @@
 - 02-12 — Chuẩn hóa nội quy khối sản xuất (mới)
 - 02-13 — Thiết lập quy trình xử lý vấn đề vượt thẩm quyền (mới)
 
-### 03. Pháp chế – Tuân thủ — 17 công việc
+### 03. Pháp chế – Tuân thủ — 23 công việc
 
 - 03-01 — Rà soát đăng ký doanh nghiệp, ngành nghề và điều lệ (mở rộng)
 - 03-02 — Kiểm tra hồ sơ góp vốn, cổ đông, quyền sử dụng đất và thuê đất (mở rộng)
@@ -81,17 +81,23 @@
 - 03-15 — Rà soát phương án giao dịch và chuyển quyền tài sản (mới)
 - 03-16 — Rà soát hợp đồng thuê hồ và diện tích mặt nước (mới)
 - 03-17 — Thiết lập danh mục hồ sơ quản trị doanh nghiệp (mới)
+- 03-18 — Xây dựng hệ thống quản trị rủi ro pháp lý và kiểm soát tuân thủ toàn doanh nghiệp (mới)
+- 03-19 — Cập nhật, tư vấn và triển khai các quy định pháp luật liên quan đến hoạt động doanh nghiệp (mới)
+- 03-20 — Kiểm soát pháp lý các hoạt động đầu tư, dự án và mở rộng kinh doanh (mới)
+- 03-21 — Quản lý tranh chấp, khiếu nại, vi phạm và xử lý các vấn đề pháp lý phát sinh (mới)
+- 03-22 — Tổ chức công tác thanh tra, kiểm tra và làm việc với cơ quan quản lý nhà nước (mới)
+- 03-23 — Kiểm tra, đánh giá tuân thủ định kỳ và giám sát khắc phục các sai phạm (mới)
 
-### 04. Hành chính – Nhân sự — 16 công việc
+### 04. Hành chính – Nhân sự — 28 công việc
 
 - 04-01 — Xây dựng định biên theo bộ phận và giai đoạn (mở rộng)
 - 04-02 — Thiết lập chức danh, JD và tiêu chuẩn năng lực
 - 04-03 — Tổ chức tuyển dụng, thử việc và hội nhập
 - 04-04 — Xây dựng lương, phụ cấp, thưởng và đánh giá hiệu suất (mở rộng)
-- 04-05 — Quản lý hợp đồng lao động, BHXH và hồ sơ nhân sự
+- 04-05 — Quản lý hợp đồng lao động, BHXH, BHYT, BHTN và hồ sơ nhân sự (mở rộng)
 - 04-06 — Ban hành nội quy, chấm công, nghỉ phép và kỷ luật (mở rộng)
 - 04-07 — Lập kế hoạch đào tạo kỹ thuật, an toàn và văn hóa
-- 04-08 — Quản lý văn phòng, công văn và tài sản hành chính
+- 04-08 — Quản lý văn phòng, văn thư, con dấu và tài sản hành chính (mở rộng)
 - 04-09 — Xây dựng quy trình quản lý lao động thời vụ
 - 04-10 — Lập phương án nhân sự kế nhiệm và dự phòng
 - 04-11 — Xây dựng hệ thống thang bảng lương (mới)
@@ -100,6 +106,18 @@
 - 04-14 — Xây dựng quy trình tính lương và đối soát chấm công (mới)
 - 04-15 — Thiết kế quy trình đánh giá và xét thưởng (mới)
 - 04-16 — Quản lý ban hành, cập nhật và thu hồi tài liệu nội bộ (mới)
+- 04-17 — Tính lương, thưởng, phụ cấp định kỳ và phối hợp thanh toán lương (mới)
+- 04-18 — Chuẩn bị dữ liệu và phối hợp kê khai, quyết toán thuế TNCN, TNDN (mới)
+- 04-19 — Thực hiện chế độ, chính sách và phúc lợi người lao động (mới)
+- 04-20 — Thực hiện thủ tục điều chuyển, bổ nhiệm, miễn nhiệm và nghỉ việc (mới)
+- 04-21 — Tiếp nhận, xử lý tranh chấp, khiếu nại và quan hệ lao động (mới)
+- 04-22 — Xây dựng lộ trình phát triển nghề nghiệp và thăng tiến (mới)
+- 04-23 — Tổ chức đánh giá năng lực và hiệu quả làm việc định kỳ (mới)
+- 04-24 — Tổ chức khám sức khỏe định kỳ và thực hiện an toàn, vệ sinh lao động (mới)
+- 04-25 — Thực hiện báo cáo lao động định kỳ với cơ quan nhà nước (mới)
+- 04-26 — Lập ngân sách và kiểm soát chi phí hành chính, nhân sự (mới)
+- 04-27 — Kiểm tra, giám sát tuân thủ pháp luật lao động (mới)
+- 04-28 — Xây dựng báo cáo, thống kê và phân tích dữ liệu nhân sự (mới)
 
 ### 05. Tài chính – Kế hoạch vốn — 12 công việc
 
@@ -116,21 +134,26 @@
 - 05-11 — Xác định nhu cầu và tổ chức thẩm định giá độc lập (mới)
 - 05-12 — Xây dựng quy chế tài chính và hồ sơ trình duyệt (mới)
 
-### 06. Kế toán – Thuế — 13 công việc
+### 06. Kế toán – Thuế — 18 công việc
 
 - 06-01 — Thiết lập chế độ kế toán và phần mềm kế toán (mở rộng)
 - 06-02 — Quản lý hóa đơn điện tử, chữ ký số và tài khoản ngân hàng (mở rộng)
 - 06-03 — Xây dựng quy trình chứng từ thu, chi, mua, bán, tạm ứng
-- 06-04 — Hạch toán chi phí đầu tư, sản xuất và tài sản cố định (mở rộng)
-- 06-05 — Theo dõi nhập xuất tồn và đối chiếu công nợ
+- 06-04 — Hạch toán các nghiệp vụ kinh tế phát sinh (mở rộng)
+- 06-05 — Theo dõi, kiểm soát nhập – xuất – tồn kho (mở rộng)
 - 06-06 — Tập hợp chi phí theo mã đàn, lô và đơn vị sản xuất (mở rộng)
 - 06-07 — Thực hiện kê khai, nộp thuế và báo cáo đúng kỳ
-- 06-08 — Kiểm soát bảng lương và thanh toán nhà cung cấp
+- 06-08 — Kiểm tra, đối chiếu bảng lương và thực hiện thanh toán lương (mở rộng)
 - 06-09 — Kiểm kê, đối chiếu quỹ, ngân hàng và kho
 - 06-10 — Lập báo cáo tài chính và số liệu quản trị
 - 06-11 — Lập kế hoạch kiểm kê tài sản hiện hữu theo chủ sở hữu (mới)
 - 06-12 — Lập danh mục tài sản và đánh giá tình trạng sử dụng (mới)
 - 06-13 — Bàn giao và cập nhật sổ tài sản sau giao dịch (mới)
+- 06-14 — Theo dõi và quản lý công nợ phải thu, phải trả (mới)
+- 06-15 — Kiểm tra chứng từ và thực hiện thanh toán cho nhà cung cấp (mới)
+- 06-16 — Kiểm soát doanh thu, giá vốn và xác định kết quả kinh doanh (mới)
+- 06-17 — Tổ chức công tác quyết toán thuế, kiểm toán và giải trình với cơ quan chức năng (mới)
+- 06-18 — Kiểm soát hồ sơ, chứng từ và quyết toán kế toán các dự án đầu tư, xây dựng cơ bản (mới)
 
 ### 07. Kiểm soát nội bộ — 10 công việc
 
@@ -305,8 +328,32 @@
 - 18-12 — Lập nhu cầu hạ tầng máy tính, mạng, server và tên miền (mới)
 - 18-13 — Đăng ký và nghiệm thu kết nối internet (mới)
 
-## Kết quả kiểm thử
+## Cập nhật riêng bộ phận 06
 
-Đạt 8/8 kiểm thử dữ liệu/logic và bộ kiểm thử tương tác Chrome ở các chiều rộng 375, 768, 1440 px. Kiểm tra tải CSV thực tế và in đủ 217 công việc; PDF QA A4 có 89 trang, đủ mã công việc. Không ghi nhận lỗi JavaScript trong các thao tác kiểm thử. Xem [kết quả chi tiết](ket-qua-kiem-thu.md).
+- 06-05 giữ ID, chuyển thành theo dõi/kiểm soát nhập – xuất – tồn kho.
+- 06-08 giữ ID, chuyển thành kiểm tra/đối chiếu và thanh toán lương.
+- Thêm 06-14 quản lý phải thu/phải trả và 06-15 kiểm tra chứng từ/thanh toán nhà cung cấp.
+- Sau lần tách việc, bộ phận 06 có 15 việc; lần bổ sung ảnh sau đó đưa lên 18 việc. Không bổ sung nhiệm vụ trùng ở Kinh doanh hoặc Thu mua.
+- Giữ nguyên khóa localStorage và ID hiện hữu, không cần migration. Hai việc mới mặc định chưa hoàn thành.
 
-[Định danh nguồn đầu vào bằng SHA-256](nguon-du-lieu.md). Workbook gốc không được đưa lên repo.
+## Bổ sung HCNS từ ảnh
+
+- Đối chiếu đủ 16 nội dung trong ảnh, bổ sung 12 nhiệm vụ (04-17 đến 04-28), mở rộng 04-05 và 04-08; giữ các ID/checklist hiện hữu.
+- HCNS tính lương và chuẩn bị hồ sơ thuế; Kế toán giữ đầu mối thanh toán tại 06-08 và kê khai tại 06-07. Thu mua giữ đầu mối mua sắm, Pháp chế giữ kiểm soát pháp lý.
+- Bộ phận 04 hiện có 28 công việc. Xem [đối chiếu 16 mục HCNS](doi-chieu-hcns.json).
+
+## Bổ sung Pháp chế – Tuân thủ từ ảnh
+
+- Thêm 03-18 đến 03-23: hai việc P0, bốn việc P1; giữ nguyên 17 mã cũ. Bộ phận 03 hiện có 23 việc.
+- Phân biệt quản trị rủi ro/tuân thủ pháp luật của Pháp chế với kiểm soát độc lập của KSNB; không tạo thêm nhiệm vụ tại KSNB hoặc HCNS.
+- Mỗi việc có đầu ra, phối hợp và nguồn ảnh riêng; checklist mới chưa hoàn thành, không tự phê duyệt chính sách hoặc xác lập thẩm quyền.
+
+## Bổ sung Kế toán – Thuế sau loại trùng
+
+- Thêm 06-16 kiểm soát doanh thu/giá vốn/kết quả kinh doanh (P0), 06-17 quyết toán thuế/kiểm toán/giải trình (P1), 06-18 kiểm soát và quyết toán kế toán dự án (P1). Bộ phận 06 hiện có 18 việc.
+- Đầu ra riêng, có tham chiếu tới 06-06 (tập hợp chi phí), 06-07 (kê khai định kỳ), 06-04 (hạch toán) và 06-10 (báo cáo); giữ nguyên các nhiệm vụ và checklist cũ.
+- Nguồn ảnh ghi riêng, không tự xác nhận tình trạng đã kiểm toán hoặc kết luận thuế/phê duyệt dự án.
+
+## Kiểm thử và nguồn
+
+Xem [kết quả kiểm thử](ket-qua-kiem-thu.md) và [định danh nguồn đầu vào](nguon-du-lieu.md). Workbook gốc không được đưa lên repo.

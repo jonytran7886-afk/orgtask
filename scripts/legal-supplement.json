@@ -1,0 +1,98 @@
+[
+  {
+    "id": "03-18",
+    "title": "Xây dựng hệ thống quản trị rủi ro pháp lý và kiểm soát tuân thủ toàn doanh nghiệp",
+    "priority": "P0",
+    "phase": 1,
+    "description": "Xây dựng khung quản trị rủi ro pháp lý, danh mục nghĩa vụ tuân thủ, tiêu chí đánh giá, đầu mối và cơ chế báo cáo/escalation; trình duyệt trước áp dụng. Pháp chế chủ trì đánh giá pháp lý và hướng dẫn tuân thủ; phối hợp KSNB tích hợp vào ma trận rủi ro chung tại 07-01, giữ chức năng kiểm soát độc lập của KSNB.",
+    "deliverable": "Dự thảo khung quản trị rủi ro pháp lý, sổ rủi ro/nghĩa vụ tuân thủ, ma trận trách nhiệm, cơ chế báo cáo và hồ sơ trình duyệt.",
+    "collaboratingDepartments": [
+      "07",
+      "02",
+      "01"
+    ],
+    "approvalStatus": "Chờ phê duyệt"
+  },
+  {
+    "id": "03-19",
+    "title": "Cập nhật, tư vấn và triển khai các quy định pháp luật liên quan đến hoạt động doanh nghiệp",
+    "priority": "P0",
+    "phase": 1,
+    "description": "Theo dõi nguồn văn bản có thẩm quyền, xác minh hiệu lực và phạm vi áp dụng; đánh giá tác động, tư vấn các bộ phận và lập kế hoạch triển khai/cập nhật tài liệu nội bộ. Theo dõi bằng chứng thực hiện; không mặc định quy định chưa được xác minh là căn cứ có hiệu lực.",
+    "deliverable": "Sổ theo dõi văn bản/nguồn/hiệu lực, bản đánh giá tác động, ý kiến tư vấn, kế hoạch triển khai và báo cáo thực hiện theo bộ phận.",
+    "collaboratingDepartments": [
+      "02",
+      "04",
+      "05",
+      "06",
+      "07",
+      "11"
+    ],
+    "approvalStatus": "Cần xác minh"
+  },
+  {
+    "id": "03-20",
+    "title": "Kiểm soát pháp lý các hoạt động đầu tư, dự án và mở rộng kinh doanh",
+    "priority": "P1",
+    "phase": 2,
+    "description": "Rà soát pháp lý phương án đầu tư, dự án và mở rộng kinh doanh theo từng giai đoạn; kiểm tra hồ sơ chủ thể, điều kiện hoạt động, đất đai, giấy phép, giao dịch và thẩm quyền. Tổng hợp điều kiện tiên quyết, rủi ro và vấn đề cần xử lý trước quyết định; không thay thế thẩm quyền phê duyệt đầu tư.",
+    "deliverable": "Checklist/hồ sơ thẩm tra pháp lý từng dự án, báo cáo rủi ro và điều kiện tiên quyết, danh sách kiến nghị và theo dõi xử lý.",
+    "collaboratingDepartments": [
+      "01",
+      "02",
+      "05",
+      "09",
+      "12",
+      "16"
+    ],
+    "approvalStatus": "Cần xác minh"
+  },
+  {
+    "id": "03-21",
+    "title": "Quản lý tranh chấp, khiếu nại, vi phạm và xử lý các vấn đề pháp lý phát sinh",
+    "priority": "P1",
+    "phase": 2,
+    "description": "Tiếp nhận, phân loại và quản lý hồ sơ vụ việc pháp lý; xác minh dữ kiện, bảo toàn chứng cứ, đánh giá rủi ro và đề xuất phương án theo thẩm quyền; phối hợp tư vấn/đại diện hợp lệ và theo dõi xử lý. HCNS giữ đầu mối quan hệ lao động tại 04-21, CSKH tiếp nhận khiếu nại khách hàng; Pháp chế chủ trì xử lý khía cạnh pháp lý.",
+    "deliverable": "Sổ vụ việc được phân quyền, bộ hồ sơ/chứng cứ, ý kiến và phương án trình duyệt, nhật ký xử lý và báo cáo kết quả/tồn đọng.",
+    "collaboratingDepartments": [
+      "02",
+      "04",
+      "17",
+      "07"
+    ],
+    "approvalStatus": "Không áp dụng"
+  },
+  {
+    "id": "03-22",
+    "title": "Tổ chức công tác thanh tra, kiểm tra và làm việc với cơ quan quản lý nhà nước",
+    "priority": "P1",
+    "phase": 2,
+    "description": "Làm đầu mối chuẩn bị và phối hợp phục vụ các đợt thanh tra, kiểm tra hoặc làm việc với cơ quan quản lý: xác minh yêu cầu/phạm vi, tổ chức cung cấp hồ sơ, phân công đại diện theo thẩm quyền, ghi nhận biên bản và theo dõi kiến nghị. Đây là công tác chuẩn bị/phối hợp của doanh nghiệp, không trao cho doanh nghiệp thẩm quyền thanh tra nhà nước.",
+    "deliverable": "Danh mục yêu cầu và hồ sơ cung cấp, kế hoạch phối hợp, hồ sơ cử/ủy quyền đại diện, biên bản làm việc và bảng theo dõi kiến nghị/kết luận.",
+    "collaboratingDepartments": [
+      "02",
+      "04",
+      "06",
+      "07",
+      "11",
+      "12"
+    ],
+    "approvalStatus": "Không áp dụng"
+  },
+  {
+    "id": "03-23",
+    "title": "Kiểm tra, đánh giá tuân thủ định kỳ và giám sát khắc phục các sai phạm",
+    "priority": "P1",
+    "phase": 2,
+    "description": "Lập kế hoạch đánh giá tuân thủ pháp luật theo rủi ro, rà soát căn cứ áp dụng và bằng chứng; ghi nhận phát hiện, thống nhất đầu mối/biện pháp xử lý và kiểm tra bằng chứng khắc phục. Phối hợp KSNB tại 07-06 và 07-07 nhưng giữ phạm vi Pháp chế là tuân thủ pháp luật; KSNB kiểm soát quy trình, hồ sơ và báo cáo độc lập.",
+    "deliverable": "Kế hoạch/checklist đánh giá tuân thủ, báo cáo phát hiện có căn cứ, danh mục hành động khắc phục và báo cáo xác minh kết quả/điểm còn mở.",
+    "collaboratingDepartments": [
+      "07",
+      "02",
+      "04",
+      "06",
+      "11"
+    ],
+    "approvalStatus": "Cần xác minh"
+  }
+]

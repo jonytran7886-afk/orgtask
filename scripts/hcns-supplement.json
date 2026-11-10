@@ -1,0 +1,353 @@
+{
+  "patches": [
+    {
+      "id": "04-05",
+      "title": "Quản lý hợp đồng lao động, BHXH, BHYT, BHTN và hồ sơ nhân sự",
+      "description": "Quản lý hồ sơ và hợp đồng lao động; chuẩn bị, kê khai và đối chiếu hồ sơ BHXH, BHYT, BHTN, theo dõi biến động và các khoản phải đóng. Phối hợp Kế toán thực hiện đóng bảo hiểm, đối chiếu, xác nhận và hoàn tất hồ sơ quyết toán khi áp dụng; theo dõi kết quả, sai lệch và quyền lợi bảo hiểm.",
+      "deliverable": "Danh mục hồ sơ lao động; hồ sơ kê khai/biến động BHXH, BHYT, BHTN; bảng đối chiếu nghĩa vụ và chứng từ đóng; hồ sơ xác nhận/quyết toán khi áp dụng, danh sách sai lệch và kết quả xử lý.",
+      "collaboratingDepartments": [
+        "06",
+        "03"
+      ],
+      "category": "Tiền lương, bảo hiểm và thuế",
+      "notes": "Bổ sung từ mục 2 trong ảnh HCNS. Kế toán thực hiện kiểm soát và thanh toán theo thẩm quyền; không tự đặt mức đóng hoặc xác nhận nghĩa vụ đã hoàn tất."
+    },
+    {
+      "id": "04-08",
+      "title": "Quản lý văn phòng, văn thư, con dấu và tài sản hành chính",
+      "description": "Vận hành văn phòng; quản lý văn thư, công văn, lưu trữ, con dấu và hồ sơ pháp lý doanh nghiệp theo phân quyền. Phối hợp Pháp chế về nội dung, hiệu lực và hồ sơ pháp lý; lập nhu cầu mua sắm hành chính, phối hợp Thu mua lựa chọn/đặt mua, quản lý cấp phát, thu hồi, bàn giao công cụ dụng cụ và trang thiết bị.",
+      "deliverable": "Sổ văn thư/công văn, danh mục lưu trữ và nhật ký sử dụng con dấu; danh mục hồ sơ pháp lý có phân quyền; phiếu đề xuất mua sắm, sổ cấp phát/thu hồi và biên bản bàn giao công cụ dụng cụ/trang thiết bị.",
+      "collaboratingDepartments": [
+        "03",
+        "13",
+        "06",
+        "18"
+      ],
+      "category": "Hành chính và tài sản",
+      "notes": "Bổ sung từ mục 12–13 trong ảnh HCNS. HCNS quản lý hành chính và bàn giao sử dụng; Thu mua chủ trì quy trình mua, Pháp chế kiểm soát pháp lý, Kế toán quản lý ghi nhận và thanh toán."
+    }
+  ],
+  "additions": [
+    {
+      "id": "04-17",
+      "title": "Tính lương, thưởng, phụ cấp định kỳ và phối hợp thanh toán lương",
+      "description": "Tổng hợp chấm công, biến động lao động, lương, thưởng và phụ cấp theo căn cứ đã duyệt; tính và đối soát bảng lương định kỳ, trình theo thẩm quyền. Bàn giao hồ sơ cho Kế toán tại 06-08 để kiểm tra và thực hiện thanh toán lương; theo dõi kết quả chi trả, xử lý chênh lệch và giải đáp bảng lương.",
+      "deliverable": "Bảng tính lương/thưởng/phụ cấp định kỳ, bảng đối soát và hồ sơ trình duyệt; biên bản bàn giao cho 06-08, kết quả chi trả được xác nhận và danh mục sai lệch đã xử lý.",
+      "collaboratingDepartments": [
+        "06",
+        "02"
+      ],
+      "category": "Tiền lương, bảo hiểm và thuế",
+      "approvalStatus": "Không áp dụng",
+      "proposedRole": "Chuyên viên C&B"
+    },
+    {
+      "id": "04-18",
+      "title": "Chuẩn bị dữ liệu và phối hợp kê khai, quyết toán thuế TNCN, TNDN",
+      "description": "Thu thập và đối soát dữ liệu thu nhập, khấu trừ và hồ sơ liên quan phục vụ kê khai, quyết toán thuế TNCN; phối hợp Kế toán chủ trì kê khai/quyết toán tại 06-07. Cung cấp, đối soát hồ sơ chi phí lương, thưởng, phụ cấp, bảo hiểm và phúc lợi phục vụ kê khai/quyết toán thuế TNDN; xử lý yêu cầu bổ sung và theo dõi kết quả.",
+      "deliverable": "Bộ dữ liệu/hồ sơ thu nhập và khấu trừ phục vụ TNCN; bộ hồ sơ chi phí nhân sự phục vụ TNDN; biên bản đối soát, bàn giao cho Kế toán và danh mục sai lệch đã xử lý.",
+      "collaboratingDepartments": [
+        "06",
+        "03"
+      ],
+      "category": "Tiền lương, bảo hiểm và thuế",
+      "approvalStatus": "Không áp dụng",
+      "proposedRole": "Chuyên viên C&B"
+    },
+    {
+      "id": "04-19",
+      "title": "Thực hiện chế độ, chính sách và phúc lợi người lao động",
+      "description": "Tổ chức thực hiện các chế độ, chính sách và phúc lợi có căn cứ áp dụng; tiếp nhận hồ sơ/yêu cầu, kiểm tra điều kiện, trình xử lý, phối hợp chi trả và theo dõi phản hồi. Những nội dung chưa được duyệt phải trình xác nhận trước khi áp dụng.",
+      "deliverable": "Danh mục chế độ/phúc lợi và căn cứ hiệu lực, hồ sơ tiếp nhận/xử lý, bảng theo dõi thực hiện và báo cáo vấn đề tồn đọng.",
+      "collaboratingDepartments": [
+        "06",
+        "03",
+        "02"
+      ],
+      "category": "Quan hệ và hồ sơ lao động",
+      "approvalStatus": "Không áp dụng",
+      "proposedRole": "Chuyên viên C&B"
+    },
+    {
+      "id": "04-20",
+      "title": "Thực hiện thủ tục điều chuyển, bổ nhiệm, miễn nhiệm và nghỉ việc",
+      "description": "Chuẩn bị và xử lý thủ tục biến động lao động theo hồ sơ và quyết định có căn cứ: điều chuyển, bổ nhiệm, miễn nhiệm, nghỉ việc; kiểm tra thẩm quyền, bàn giao công việc/tài sản, cập nhật hồ sơ và phối hợp thu hồi/cấp quyền hệ thống. Không coi danh mục này là quyết định nhân sự có hiệu lực.",
+      "deliverable": "Bộ hồ sơ thủ tục theo từng loại biến động, checklist thẩm quyền và bàn giao, bảng cập nhật hồ sơ/chế độ/tài khoản có xác nhận phối hợp.",
+      "collaboratingDepartments": [
+        "02",
+        "03",
+        "06",
+        "18"
+      ],
+      "category": "Quan hệ và hồ sơ lao động",
+      "approvalStatus": "Cần xác minh",
+      "proposedRole": "Chuyên viên nhân sự"
+    },
+    {
+      "id": "04-21",
+      "title": "Tiếp nhận, xử lý tranh chấp, khiếu nại và quan hệ lao động",
+      "description": "Thiết lập đầu mối tiếp nhận, ghi nhận và phân loại vấn đề quan hệ lao động; phối hợp Pháp chế xác minh, đối thoại, đề xuất phương án xử lý theo thẩm quyền; theo dõi thực hiện, phản hồi và lưu hồ sơ có phân quyền.",
+      "deliverable": "Sổ theo dõi vụ việc đã phân quyền, biên bản xác minh/đối thoại, hồ sơ phương án được duyệt và báo cáo tình trạng xử lý.",
+      "collaboratingDepartments": [
+        "03",
+        "02"
+      ],
+      "category": "Quan hệ và hồ sơ lao động",
+      "approvalStatus": "Không áp dụng",
+      "proposedRole": "Chuyên viên quan hệ lao động"
+    },
+    {
+      "id": "04-22",
+      "title": "Xây dựng lộ trình phát triển nghề nghiệp và thăng tiến",
+      "description": "Thiết kế lộ trình nghề nghiệp theo nhóm chức danh; xác định tiêu chuẩn năng lực, yêu cầu phát triển, tiêu chí xét thăng tiến và kết nối kế hoạch đào tạo/kế nhiệm. Trình cơ chế theo thẩm quyền trước áp dụng; không mặc định phê duyệt thăng chức hoặc bổ nhiệm.",
+      "deliverable": "Khung lộ trình nghề nghiệp, ma trận năng lực/cấp bậc, tiêu chí xét thăng tiến và hồ sơ trình duyệt, kế hoạch phát triển theo vai trò.",
+      "collaboratingDepartments": [
+        "02"
+      ],
+      "category": "Phát triển và đánh giá nhân sự",
+      "approvalStatus": "Chờ phê duyệt",
+      "proposedRole": "Chuyên viên phát triển nhân sự"
+    },
+    {
+      "id": "04-23",
+      "title": "Tổ chức đánh giá năng lực và hiệu quả làm việc định kỳ",
+      "description": "Triển khai kỳ đánh giá theo bộ tiêu chí/quy trình đã được duyệt, liên kết KPI và năng lực theo chức danh; hướng dẫn các bộ phận, tổng hợp minh chứng, đối soát kết quả, phản hồi và theo dõi kế hoạch cải thiện. Công việc này triển khai đánh giá, tách khỏi thiết kế quy trình tại 04-15.",
+      "deliverable": "Kế hoạch kỳ đánh giá, biểu mẫu/minh chứng, báo cáo tổng hợp theo bộ phận/chức danh, biên bản phản hồi và kế hoạch cải thiện có theo dõi.",
+      "collaboratingDepartments": [
+        "02",
+        "07"
+      ],
+      "category": "Phát triển và đánh giá nhân sự",
+      "approvalStatus": "Không áp dụng",
+      "proposedRole": "Chuyên viên phát triển nhân sự"
+    },
+    {
+      "id": "04-24",
+      "title": "Tổ chức khám sức khỏe định kỳ và thực hiện an toàn, vệ sinh lao động",
+      "description": "Lập kế hoạch khám sức khỏe định kỳ theo nhu cầu/vị trí và căn cứ áp dụng; phối hợp lựa chọn đơn vị, tổ chức triển khai, quản lý hồ sơ sức khỏe có phân quyền và theo dõi kiến nghị. Phối hợp các đơn vị thực hiện chế độ an toàn, vệ sinh lao động, đào tạo, trang bị và theo dõi biện pháp khắc phục.",
+      "deliverable": "Kế hoạch và hồ sơ tổ chức khám, báo cáo tổng hợp được phân quyền; hồ sơ triển khai an toàn/vệ sinh lao động, danh mục kiến nghị và kết quả khắc phục.",
+      "collaboratingDepartments": [
+        "11",
+        "08",
+        "09",
+        "12",
+        "15",
+        "13"
+      ],
+      "category": "Sức khỏe và an toàn lao động",
+      "approvalStatus": "Không áp dụng",
+      "proposedRole": "Chuyên viên HCNS phụ trách an toàn lao động"
+    },
+    {
+      "id": "04-25",
+      "title": "Thực hiện báo cáo lao động định kỳ với cơ quan nhà nước",
+      "description": "Rà soát nghĩa vụ báo cáo lao động áp dụng; lập lịch theo căn cứ được xác minh, tổng hợp/đối soát số liệu, trình ký và gửi báo cáo theo thẩm quyền; lưu bằng chứng tiếp nhận và xử lý yêu cầu bổ sung. Không tự đặt kỳ hạn pháp lý chưa được kiểm tra.",
+      "deliverable": "Danh mục nghĩa vụ và lịch báo cáo có nguồn, bộ dữ liệu đối soát, hồ sơ trình ký, bản báo cáo đã gửi và bằng chứng tiếp nhận.",
+      "collaboratingDepartments": [
+        "03",
+        "02"
+      ],
+      "category": "Dữ liệu và báo cáo nhân sự",
+      "approvalStatus": "Cần xác minh",
+      "proposedRole": "Chuyên viên nhân sự"
+    },
+    {
+      "id": "04-26",
+      "title": "Lập ngân sách và kiểm soát chi phí hành chính, nhân sự",
+      "description": "Tổng hợp nhu cầu chi phí hành chính, tuyển dụng, đào tạo, lương, bảo hiểm và phúc lợi; lập ngân sách theo hạng mục, phối hợp Tài chính thẩm định/trình duyệt. Theo dõi thực hiện và chênh lệch so với ngân sách được duyệt, cảnh báo và đề xuất điều chỉnh.",
+      "deliverable": "Bảng ngân sách HCNS kèm căn cứ, hồ sơ trình duyệt; báo cáo thực hiện/chênh lệch và danh mục cảnh báo, đề xuất điều chỉnh.",
+      "collaboratingDepartments": [
+        "05",
+        "06",
+        "13"
+      ],
+      "category": "Ngân sách hành chính – nhân sự",
+      "approvalStatus": "Chờ phê duyệt",
+      "proposedRole": "Trưởng HCNS"
+    },
+    {
+      "id": "04-27",
+      "title": "Kiểm tra, giám sát tuân thủ pháp luật lao động",
+      "description": "Phối hợp Pháp chế xác định yêu cầu áp dụng và xây dựng checklist kiểm tra hồ sơ lao động, hợp đồng, chấm công, chế độ và điều kiện làm việc; tổ chức rà soát, ghi nhận vấn đề, giao đầu mối khắc phục và theo dõi bằng chứng hoàn tất. Không tự kết luận tuân thủ pháp lý khi chưa đủ căn cứ.",
+      "deliverable": "Checklist và căn cứ được xác minh, biên bản kiểm tra, danh mục vấn đề/rủi ro và báo cáo theo dõi khắc phục có bằng chứng.",
+      "collaboratingDepartments": [
+        "03",
+        "07"
+      ],
+      "category": "Tuân thủ lao động",
+      "approvalStatus": "Cần xác minh",
+      "proposedRole": "Trưởng HCNS"
+    },
+    {
+      "id": "04-28",
+      "title": "Xây dựng báo cáo, thống kê và phân tích dữ liệu nhân sự",
+      "description": "Chuẩn hóa dữ liệu theo bộ phận/chức danh, định nghĩa chỉ số và quyền truy cập; xây dựng báo cáo/thống kê về định biên, tuyển dụng, biến động, đào tạo, hiệu suất và chi phí; đối soát dữ liệu và phân tích xu hướng phục vụ điều hành. Danh mục công việc và bản xuất không chứa tên nhân sự.",
+      "deliverable": "Từ điển chỉ số/nguồn dữ liệu, bộ mẫu báo cáo nhân sự, quy tắc kiểm tra/phân quyền và báo cáo phân tích tổng hợp theo bộ phận/chức danh.",
+      "collaboratingDepartments": [
+        "18",
+        "02",
+        "05"
+      ],
+      "category": "Dữ liệu và báo cáo nhân sự",
+      "approvalStatus": "Không áp dụng",
+      "proposedRole": "Chuyên viên dữ liệu nhân sự"
+    }
+  ],
+  "coverage": [
+    {
+      "item": 1,
+      "summary": "Tính lương, thưởng, phụ cấp và thanh toán lương định kỳ",
+      "taskIds": [
+        "04-17",
+        "06-08"
+      ],
+      "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+      "notes": "Kế toán chủ trì thanh toán/kê khai; HCNS tính lương và chuẩn bị, đối soát dữ liệu."
+    },
+    {
+      "item": 2,
+      "summary": "Kê khai, đóng và quyết toán BHXH, BHYT, BHTN",
+      "taskIds": [
+        "04-05"
+      ],
+      "action": "Mở rộng công việc hiện có",
+      "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+    },
+    {
+      "item": 3,
+      "summary": "Kê khai và quyết toán thuế TNCN",
+      "taskIds": [
+        "04-18",
+        "06-07"
+      ],
+      "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+      "notes": "Kế toán chủ trì thanh toán/kê khai; HCNS tính lương và chuẩn bị, đối soát dữ liệu."
+    },
+    {
+      "item": 4,
+      "summary": "Phối hợp kê khai, quyết toán thuế TNDN với kế toán",
+      "taskIds": [
+        "04-18",
+        "06-07"
+      ],
+      "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+      "notes": "Kế toán chủ trì thanh toán/kê khai; HCNS tính lương và chuẩn bị, đối soát dữ liệu."
+    },
+    {
+      "item": 5,
+      "summary": "Thực thi chế độ, chính sách, phúc lợi người lao động",
+      "taskIds": [
+        "04-19"
+      ],
+      "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+      "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+    },
+    {
+      "item": 6,
+      "summary": "Thủ tục điều chuyển, bổ nhiệm, miễn nhiệm, nghỉ việc",
+      "taskIds": [
+        "04-20",
+        "04-12",
+        "03-14"
+      ],
+      "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+      "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+    },
+    {
+      "item": 7,
+      "summary": "Tranh chấp, khiếu nại và quan hệ lao động",
+      "taskIds": [
+        "04-21"
+      ],
+      "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+      "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+    },
+    {
+      "item": 8,
+      "summary": "Lộ trình nghề nghiệp và thăng tiến",
+      "taskIds": [
+        "04-22",
+        "04-10"
+      ],
+      "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+      "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+    },
+    {
+      "item": 9,
+      "summary": "Đánh giá năng lực, hiệu quả định kỳ",
+      "taskIds": [
+        "04-23",
+        "04-15",
+        "02-03"
+      ],
+      "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+      "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+    },
+    {
+      "item": 10,
+      "summary": "Khám sức khỏe định kỳ và an toàn, vệ sinh lao động",
+      "taskIds": [
+        "04-24"
+      ],
+      "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+      "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+    },
+    {
+      "item": 11,
+      "summary": "Báo cáo lao động với cơ quan nhà nước",
+      "taskIds": [
+        "04-25"
+      ],
+      "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+      "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+    },
+    {
+      "item": 12,
+      "summary": "Văn thư, lưu trữ, con dấu, hồ sơ pháp lý",
+      "taskIds": [
+        "04-08",
+        "03-17"
+      ],
+      "action": "Mở rộng công việc hiện có",
+      "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+    },
+    {
+      "item": 13,
+      "summary": "Mua sắm, cấp phát, thu hồi công cụ dụng cụ, trang thiết bị",
+      "taskIds": [
+        "04-08",
+        "13-04"
+      ],
+      "action": "Mở rộng công việc hiện có",
+      "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+    },
+    {
+      "item": 14,
+      "summary": "Ngân sách và kiểm soát chi phí HCNS",
+      "taskIds": [
+        "04-26",
+        "05-02"
+      ],
+      "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+      "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+    },
+    {
+      "item": 15,
+      "summary": "Giám sát tuân thủ pháp luật lao động",
+      "taskIds": [
+        "04-27"
+      ],
+      "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+      "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+    },
+    {
+      "item": 16,
+      "summary": "Báo cáo, thống kê và phân tích dữ liệu nhân sự",
+      "taskIds": [
+        "04-28"
+      ],
+      "action": "Bổ sung nhiệm vụ có đầu ra riêng",
+      "notes": "Giữ nguyên đầu mối nghiệp vụ và ID cũ; các chức danh chưa được xác nhận phân công."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "id": "06-16",
+    "title": "Kiểm soát doanh thu, giá vốn và xác định kết quả kinh doanh",
+    "priority": "P0",
+    "phase": 1,
+    "description": "Kiểm tra, đối soát doanh thu với hợp đồng, hóa đơn, giao nhận và sổ chi tiết; rà soát giá vốn từ kết quả tập hợp chi phí tại 06-06, đối chiếu kỳ ghi nhận và phân bổ. Tổng hợp doanh thu, giá vốn, chi phí và xác định kết quả kinh doanh theo kỳ/đối tượng; xử lý chênh lệch trước khi chuyển số liệu cho báo cáo tại 06-10. Đây là kiểm soát và xác định kết quả, không tạo lại việc tập hợp chi phí hoặc lập báo cáo tài chính.",
+    "deliverable": "Bảng kiểm soát/đối soát doanh thu – giá vốn – chi phí theo kỳ, bảng xác định kết quả kinh doanh có nguồn số liệu và danh mục chênh lệch kèm kết quả xử lý.",
+    "collaboratingDepartments": [
+      "05",
+      "16",
+      "14",
+      "15"
+    ],
+    "approvalStatus": "Không áp dụng"
+  },
+  {
+    "id": "06-17",
+    "title": "Tổ chức công tác quyết toán thuế, kiểm toán và giải trình với cơ quan chức năng",
+    "priority": "P1",
+    "phase": 2,
+    "description": "Lập kế hoạch và chuẩn bị hồ sơ quyết toán thuế từ dữ liệu kê khai/nộp thuế định kỳ tại 06-07; tổ chức đối soát, rà soát chênh lệch và hoàn thiện hồ sơ theo căn cứ áp dụng. Chuẩn bị, phối hợp công tác kiểm toán khi có yêu cầu/phạm vi được xác nhận; làm đầu mối hồ sơ, số liệu và giải trình kế toán/thuế với cơ quan chức năng, phối hợp Pháp chế về pháp lý và đại diện theo thẩm quyền. Theo dõi yêu cầu bổ sung, kiến nghị và xử lý sau làm việc; không mặc định đã được kiểm toán hoặc đã có kết luận quyết toán thuế.",
+    "deliverable": "Kế hoạch và bộ hồ sơ quyết toán thuế; danh mục hồ sơ/số liệu phục vụ kiểm toán, biên bản đối soát, hồ sơ giải trình và bảng theo dõi kiến nghị/yêu cầu bổ sung, kết quả xử lý có căn cứ.",
+    "collaboratingDepartments": [
+      "03",
+      "05",
+      "07",
+      "04"
+    ],
+    "approvalStatus": "Cần xác minh"
+  },
+  {
+    "id": "06-18",
+    "title": "Kiểm soát hồ sơ, chứng từ và quyết toán kế toán các dự án đầu tư, xây dựng cơ bản",
+    "priority": "P1",
+    "phase": 2,
+    "description": "Kiểm tra tính đầy đủ và khớp đúng của hồ sơ hợp đồng, khối lượng, nghiệm thu, hóa đơn, thanh toán và chi phí theo từng dự án đầu tư/xây dựng cơ bản; đối chiếu dữ liệu hạch toán tại 06-04 với hồ sơ thực hiện. Tổng hợp hồ sơ quyết toán kế toán dự án, rà soát chênh lệch và điều kiện ghi nhận/bàn giao tài sản, trình xử lý theo thẩm quyền. Phân biệt quyết toán kế toán dự án với hạch toán thường xuyên tại 06-04, kiểm soát pháp lý và phê duyệt chủ trương đầu tư.",
+    "deliverable": "Checklist và danh mục chứng từ dự án; bảng đối chiếu hợp đồng – nghiệm thu – thanh toán – sổ kế toán, bộ hồ sơ quyết toán kế toán dự án và danh sách chênh lệch/điều kiện còn phải xử lý.",
+    "collaboratingDepartments": [
+      "12",
+      "05",
+      "03",
+      "13",
+      "07"
+    ],
+    "approvalStatus": "Cần xác minh"
+  }
+]
